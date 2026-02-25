@@ -1,4 +1,4 @@
-# Practical lesson pz-MQTT MAZUR
+# Practical lesson pz-MQTT
 # Розгортання та налаштування MQTT-брокера  
 
 ---
